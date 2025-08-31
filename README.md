@@ -18,6 +18,8 @@ Twisting cables for connection with a bend
 
 Work was done without power
 
+I tried on the required length of cables and cut them, laid the cables at an adequate bend, and secured them with cable ties.
+
 Main power: supplied L and N to the block
 
 Electromagnetic valve: connected a pair of wires to the corresponding terminals (usually marked as VALVE/VALV or goes through a relay, look in the manual for accuracy since I did not have the inscriptions). Fixed (in my case it was a white cable).
@@ -29,3 +31,9 @@ Check: tightened all the screws.
 Final connection result
 
 ![Final connection](3.jpg)
+
+I put the cover on and checked to see if I had pinched the cables with it
+
+![Cover](5.jpg)
+
+![Cover](6.jpg)
